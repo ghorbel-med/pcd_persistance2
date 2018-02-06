@@ -1,0 +1,9 @@
+com\tritux\service\TestHBCServiceImpl.class
+com\tritux\configuration\PersistenceConfig.class
+com\tritux\entity\TestHBC.class
+com\tritux\persistence\dao\TestHBCRepository.class
+com\tritux\configuration\TestLogicConfig.class
+com\tritux\service\TestHBCService.class
+com\tritux\persistence\dao\EtudiantRepository.class
+com\tritux\entity\Etudiant.class
+com\tritux\configuration\PersistenceConfig$1.class
